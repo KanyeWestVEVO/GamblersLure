@@ -1,0 +1,17 @@
+[
+    {
+        "Author": "biggestboss",
+        "Name": "Gambler's Lure",
+        "Punchline": "Pick high or low.",
+        "Description": "Play the mediocre timewaster Gambler's Lure while waiting for your queue to pop.",
+        "InternalName": "samplePlugin",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "timewaster",
+            "cards",
+            "dogshit"
+        ],
+        "IconUrl": "https://i.imgur.com/1Ysi3wY.png",
+        "RepoUrl": "https://github.com/KanyeWestVEVO/GamblersLure"
+    }
+]
