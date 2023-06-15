@@ -12,6 +12,9 @@
             "dogshit"
         ],
         "IconUrl": "https://i.imgur.com/1Ysi3wY.png",
-        "RepoUrl": "https://github.com/KanyeWestVEVO/GamblersLure"
+        "RepoUrl": "https://github.com/KanyeWestVEVO/GamblersLure",
+        "DownloadLinkInstall": "https://github.com/KanyeWestVEVO/GamblersLure/releases/download/plogon/GamblersLure.zip",
+        "DownloadLinkTesting": "https://github.com/KanyeWestVEVO/GamblersLure/releases/download/plogon/GamblersLure.zip",
+        "DownloadLinkUpdate": "https://github.com/KanyeWestVEVO/GamblersLure/releases/download/plogon/GamblersLure.zip"
     }
 ]
