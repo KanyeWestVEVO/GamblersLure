@@ -8,3 +8,8 @@ Plogon for FFXIV that lets you play Gambler's Lure whenever you want.
 
 1) Go to /xlsettings > Experimental
 2) Copy and paste the following url into your Custom Plugin Repositories listing: https://raw.githubusercontent.com/KanyeWestVEVO/GamblersLure/master/repo.json
+
+# Commands
+
+/glure - Start game
+/glurehelp - Tips n' Tricks
