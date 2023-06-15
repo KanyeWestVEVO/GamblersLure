@@ -1,5 +1,7 @@
 # Gambler's Lure
 
+![Plogon](https://i.imgur.com/2O6dLbW.png)
+
 Plogon for FFXIV that lets you play Gambler's Lure whenever you want.
 
 # Installation
