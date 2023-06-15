@@ -12,4 +12,5 @@ Plogon for FFXIV that lets you play Gambler's Lure whenever you want.
 # Commands
 
 /glure - Start game
+
 /glurehelp - Tips n' Tricks
